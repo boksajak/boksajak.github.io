@@ -1,6 +1,6 @@
 ---
 title:  "Reading Log"
-date:   2022-08-17 20:30:21
+date:   2022-08-17 20:30:11
 categories: rendering papers research
 excerpt: "A log of CG articles read by me"
 tags: [rendering, papers, research]
