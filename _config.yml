@@ -8,6 +8,7 @@ twitter_username: boksajak
 github_username:  boksajak
 repository: boksajak/boksajak.github.io
 theme: jekyll-theme-minimal
+future: true
 
 links:
   - github: "https://github.com/boksajak/"
