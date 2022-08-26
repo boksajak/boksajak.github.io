@@ -14,7 +14,9 @@ permalink: /blog/:title
 <time datetime="{{ page.date | date_to_xmlschema }}">
   <em>{{ page.date | date: "%b %-d, %Y" }}</em>
 </time>                      
-              
+     
+It's middle of August 2022 and I feel like I haven't been keeping up with graphics papers, so I'm starting a log where I'll records which papers I read, hopefully this will motivate me to keep reading.
+
 <div style="text-align: justify; font-style: italic;">
 
 <!--
@@ -74,7 +76,7 @@ permalink: /blog/:title
         </tr>
         <tr style="font-weight: normal;">
             <td>Instant Radiosity</td>
-            <td style="text-align: center;">U. Kaiselautern</td>
+            <td style="text-align: center;">U. Kaiserlautern</td>
             <td style="text-align: center;">1997</td>
         </tr>
         <tr style="font-weight: normal;">
