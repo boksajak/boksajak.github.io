@@ -14,9 +14,7 @@ permalink: /blog/:title
 <time datetime="{{ page.date | date_to_xmlschema }}">
   <em>{{ page.date | date: "%b %-d, %Y" }}</em>
 </time>                      
-                 
-## Reading Log
-
+              
 <div style="text-align: justify; font-style: italic;">
 
 <!--
@@ -40,49 +38,49 @@ permalink: /blog/:title
     </thead>
     <tbody>
         <tr>
-            <td><strong>August 2022 (3/4)</strong></td>
+            <td style="color: white;">August 2022 (3/4)</td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Ray Traced Level of Detail Cross-Fades Made Easy</td>
-            <td>RTG2</td>
-            <td>2021</td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>The Shader Binding Table Demystified</td>
-            <td>RTG2</td>
-            <td>2021</td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Temporally Reliable Motion Vectors for Better Use of Temporal Information</td>
-            <td>RTG2</td>
-            <td>2021</td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Lightweight Multidimensional Adaptive Sampling for GPU Ray Tracing</td>
-            <td>JCGT</td>
-            <td>2022</td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2022</td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Combining Analytic Direct Illumination and Stochastic Shadows</td>
-            <td>Siggraph</td>
-            <td>2018</td>
+            <td style="text-align: center;">Siggraph</td>
+            <td style="text-align: center;">2018</td>
         </tr>
         <tr>
-            <td><strong>August 2022 (4/4)</strong></td>
+            <td style="color: white;">August 2022 (4/4)</td>
             <td></td>
             <td></td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Instant Radiosity</td>
-            <td>U. Kaiselautern</td>
-            <td>1997</td>
+            <td style="text-align: center;">U. Kaiselautern</td>
+            <td style="text-align: center;">1997</td>
         </tr>
-        <tr>
+        <tr style="font-weight: normal;">
             <td>Real-Time Polygonal-Light Shading with Linearly Transformed Cosines</td>
-            <td>Siggraph</td>
-            <td>2016</td>
+            <td style="text-align: center;">Siggraph</td>
+            <td style="text-align: center;">2016</td>
         </tr>
     </tbody>
 </table>
