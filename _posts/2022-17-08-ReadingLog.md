@@ -27,6 +27,11 @@ permalink: /blog/:title
 | Temporally Reliable Motion Vectors for Better Use of Temporal Information      |  RTG2      | 2021     |
 | Lightweight Multidimensional Adaptive Sampling for GPU Ray Tracing     |  JCGT      | 2022     |
 | Combining Analytic Direct Illumination and Stochastic Shadows     |  Siggraph      | 2018     |
+
+| **August 2022 (4/4)**    |                    |                       |
+| Instant Radiosity       |  U. Kaiselautern      | 1997     |
+| Real-Time Polygonal-Light Shading with Linearly Transformed Cosines                   |  Siggraph      | 2016     |
+
 		
 
 
