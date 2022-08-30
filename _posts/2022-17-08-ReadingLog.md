@@ -45,27 +45,42 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td></td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Ray Traced Level of Detail Cross-Fades Made Easy</td>
+            <td>
+                  Ray Traced Level of Detail Cross-Fades Made Easy<br />
+                  <div style="color: white; font-size: 7pt;">Holger Gruen</div>
+            </td>
             <td style="text-align: center;">RTG2</td>
             <td style="text-align: center;">2021</td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>The Shader Binding Table Demystified</td>
+            <td>
+                  The Shader Binding Table Demystified<br />
+                  <div style="color: white; font-size: 7pt;">Will Usher</div>
+            </td>
             <td style="text-align: center;">RTG2</td>
             <td style="text-align: center;">2021</td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Temporally Reliable Motion Vectors for Better Use of Temporal Information</td>
+            <td>
+                  Temporally Reliable Motion Vectors for Better Use of Temporal Information<br />
+                  <div style="color: white; font-size: 7pt;">Zheng Zeng, Shiqiu Liu, Jinglei Yang, Lu Wang, and Ling-Qi Yan</div>
+            </td>
             <td style="text-align: center;">RTG2</td>
             <td style="text-align: center;">2021</td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Lightweight Multidimensional Adaptive Sampling for GPU Ray Tracing</td>
+            <td>
+                  Lightweight Multidimensional Adaptive Sampling for GPU Ray Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Daniel Meister and Toshiya Hachisuka</div>
+            </td>
             <td style="text-align: center;">JCGT</td>
             <td style="text-align: center;">2022</td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Combining Analytic Direct Illumination and Stochastic Shadows</td>
+            <td>
+                  Combining Analytic Direct Illumination and Stochastic Shadows<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitz, Stephen Hill, Morgan McGuire</div>
+            </td>
             <td style="text-align: center;">Siggraph</td>
             <td style="text-align: center;">2018</td>
         </tr>
@@ -75,19 +90,25 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td></td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Instant Radiosity</td>
+            <td>
+                  Instant Radiosity<br />
+                  <div style="color: white; font-size: 7pt;">Alexander Keller</div>
+            </td>
             <td style="text-align: center;">U. Kaiserlautern</td>
             <td style="text-align: center;">1997</td>
         </tr>
         <tr style="font-weight: normal;">
-            <td>Real-Time Polygonal-Light Shading with Linearly Transformed Cosines</td>
+            <td>
+                  Real-Time Polygonal-Light Shading with Linearly Transformed Cosines<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitz, Jonathan Dupuy, Stephen Hill and David Neubelt</div>
+            </td>
             <td style="text-align: center;">Siggraph</td>
             <td style="text-align: center;">2016</td>
         </tr>
         <tr style="font-weight: normal;">
             <td>
                   Accurate Analytic Approximations For Real-Time Specular Area Lighting<br />
-                  <div style="color: white; font-size: 7pt;">Pascal Lecocq, Arthur Dufay, Gael Souriman,t Jean-Eudes Marvie</div>
+                  <div style="color: white; font-size: 7pt;">Pascal Lecocq, Arthur Dufay, Gael Sourimant, Jean-Eudes Marvie</div>
             </td>
             <td style="text-align: center;">i3D</td>
             <td style="text-align: center;">2016</td>
