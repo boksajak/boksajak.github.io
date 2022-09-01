@@ -113,6 +113,24 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">i3D</td>
             <td style="text-align: center;">2016</td>
         </tr>
+          <tr style="font-weight: normal;">
+            <td>
+                  Notes on the Ward BRDF<br />
+                  <div style="color: white; font-size: 7pt;">Bruce Walter</div>
+            </td>
+            <td style="text-align: center;">Report</td>
+            <td style="text-align: center;">2005</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Geometric Derivation of the Irradiance of Polygonal Lights<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitz</div>
+            </td>
+            <td style="text-align: center;">Report</td>
+            <td style="text-align: center;">2017</td>
+        </tr>
+          
+          
     </tbody>
 </table>
 
