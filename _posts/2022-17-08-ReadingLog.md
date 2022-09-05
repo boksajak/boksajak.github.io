@@ -142,10 +142,15 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">RTG2</td>
             <td style="text-align: center;">2021</td>
+        </tr>        
+        <tr style="font-weight: normal;">
+            <td>
+                  Performance Comparison of Bounding Volume Hierarchies for GPU Ray Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Daniel Meister, Jiri Bittner</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2022</td>
         </tr>
-          
-          
-          
     </tbody>
 </table>
 
