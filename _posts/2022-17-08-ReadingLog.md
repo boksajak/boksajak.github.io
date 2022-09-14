@@ -164,7 +164,24 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">RTG2</td>
             <td style="text-align: center;">2021</td>
-        </tr>        
+        </tr>    
+        <tr style="font-weight: normal;">
+            <td>
+                  Temporal Gradient-Domain Path Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Marco Manzi, Markus Kettunen, Fredo Durand, Matthias Zwicker, Jaakko Lehtinen</div>
+            </td>
+            <td style="text-align: center;">ACM TOG</td>
+            <td style="text-align: center;">2016</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  The Irradiance Volume<br />
+                  <div style="color: white; font-size: 7pt;">Gene Greger, Peter Shirley, Philip M. Hubbard, Donald P. Greenberg</div>
+            </td>
+            <td style="text-align: center;">IEEE CGaA</td>
+            <td style="text-align: center;">1998</td>
+        </tr> 
+          
     </tbody>
 </table>
 
