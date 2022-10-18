@@ -181,6 +181,59 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">IEEE CGaA</td>
             <td style="text-align: center;">1998</td>
         </tr> 
+ 
+        <tr>
+            <td style="color: white;">September 2022 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Introduction to Locality-Sensitive Hashing<br />
+                  <div style="color: white; font-size: 7pt;">Tyler Neylon</div>
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr> 
+
+        <tr>
+            <td style="color: white;">September 2022 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr> 
+          
+        <tr>
+            <td style="color: white;">October 2022 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr> 
+          
+        <tr>
+            <td style="color: white;">October 2022 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr> 
           
     </tbody>
 </table>
