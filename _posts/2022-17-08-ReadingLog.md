@@ -193,7 +193,7 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
                   <div style="color: white; font-size: 7pt;">Tyler Neylon</div>
             </td>
             <td style="text-align: center;"></td>
-            <td style="text-align: center;"></td>
+            <td style="text-align: center;">2018</td>
         </tr> 
 
         <tr>
@@ -233,6 +233,36 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;"></td>
             <td style="text-align: center;"></td>
+        </tr> 
+          
+        <tr>
+            <td style="color: white;">October 2022 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Volumetric ambient occlusion<br />
+                  <div style="color: white; font-size: 7pt;">Laszlo Szirmay-Kalos, Tamas Umenhoffer, Balazs Toth, Laszlo Szecsi, Mateu Sbert</div>
+            </td>
+            <td style="text-align: center;">IEEE CGaA</td>
+            <td style="text-align: center;">2009</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Dynamic Diffuse Global Illumination with Ray-Traced Irradiance Fields<br />
+                  <div style="color: white; font-size: 7pt;">Zander Majercik, Jean-Philippe Guertin, Derek Nowrouzezahrai, Morgan McGuire</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2019</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Real-Time Global Illumination using Precomputed Light Field Probes<br />
+                  <div style="color: white; font-size: 7pt;">Morgan McGuire, Mike Mara, Derek Nowrouzezahrai, David Luebke</div>
+            </td>
+            <td style="text-align: center;">I3D</td>
+            <td style="text-align: center;">2017</td>
         </tr> 
           
     </tbody>
