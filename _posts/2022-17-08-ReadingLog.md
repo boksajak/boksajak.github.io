@@ -272,6 +272,15 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Siggraph Asia</td>
             <td style="text-align: center;">2009</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  A Ray Tracing Solution for Diffuse Interreflection<br />
+                  <div style="color: white; font-size: 7pt;">Greg Ward</div>
+            </td>
+            <td style="text-align: center;">ACM CG</td>
+            <td style="text-align: center;">1988</td>
+        </tr>                  
+          
           
     </tbody>
 </table>
