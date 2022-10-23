@@ -264,6 +264,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">I3D</td>
             <td style="text-align: center;">2017</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Virtual Spherical Lights for Many-Light Rendering of Glossy Scenes<br />
+                  <div style="color: white; font-size: 7pt;">Milos Hasan, Jaroslav Krivanek, Bruce Walter, Kavita Bala</div>
+            </td>
+            <td style="text-align: center;">Siggraph Asia</td>
+            <td style="text-align: center;">2009</td>
+        </tr> 
           
     </tbody>
 </table>
