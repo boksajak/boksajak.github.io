@@ -280,6 +280,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">ACM CG</td>
             <td style="text-align: center;">1988</td>
         </tr>                  
+        <tr style="font-weight: normal;">
+            <td>
+                  Radiance Caching for Efficient Global Illumination Computation<br />
+                  <div style="color: white; font-size: 7pt;">Jaroslav Krivanek, Pascal Gautron, Sumanta Pattanaik, Kadi Bouatouch</div>
+            </td>
+            <td style="text-align: center;">IEEE TVaCG</td>
+            <td style="text-align: center;">2005</td>
+        </tr>                  
           
           
     </tbody>
