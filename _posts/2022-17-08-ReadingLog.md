@@ -288,6 +288,41 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">IEEE TVaCG</td>
             <td style="text-align: center;">2005</td>
         </tr>                  
+
+        <tr>
+            <td style="color: white;">October 2022 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>
+          
+        <tr>
+            <td style="color: white;">November 2022 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Using Blue Noise For Ray Traced Soft Shadows<br />
+                  <div style="color: white; font-size: 7pt;">Alan Wolfe</div>
+            </td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Practical Path Guiding for Efficient Light-Transport Simulation<br />
+                  <div style="color: white; font-size: 7pt;">Thomas Mueller, Markus Gross, Jan Novak</div>
+            </td>
+            <td style="text-align: center;">EGSR</td>
+            <td style="text-align: center;">2017</td>
+        </tr>
           
           
     </tbody>
