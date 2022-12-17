@@ -324,6 +324,94 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2017</td>
         </tr>
           
+        <tr>
+            <td style="color: white;">November 2022 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Weighted Reservoir Sampling: Randomly Sampling Streams<br />
+                  <div style="color: white; font-size: 7pt;">Chris Wyman</div>
+            </td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  The Alias Method for Sampling Discrete Distributions<br />
+                  <div style="color: white; font-size: 7pt;">Chris Wyman</div>
+            </td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
+        </tr>
+          
+        <tr>
+            <td style="color: white;">November 2022 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>
+
+        <tr>
+            <td style="color: white;">November 2022 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>
+          
+        <tr>
+            <td style="color: white;">December 2022 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Real-time Neural Radiance Caching for Path Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Thomas Mueller, Fabrice Rousselle, Jan Novak, Alexander Keller</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2021</td>
+        </tr> 
+
+        <tr>
+            <td style="color: white;">December 2022 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>
+          
+        <tr>
+            <td style="color: white;">December 2022 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Understanding The Math Behind ReStir DI<br />
+                  <div style="color: white; font-size: 7pt;">Jiayin Cao</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2022</td>
+        </tr> 
           
     </tbody>
 </table>
