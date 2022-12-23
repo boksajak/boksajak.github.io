@@ -420,6 +420,40 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Blog</td>
             <td style="text-align: center;">2015</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Validating Physical Light Units<br />
+                  <div style="color: white; font-size: 7pt;">Kostas Anagnostou</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2020</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Memo on Fresnel equations<br />
+                  <div style="color: white; font-size: 7pt;">Sebastien Lagarde</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2013</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Naive Bidirectional Path Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Jiayin Cao</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2016</td>
+        </tr>   
+        <tr style="font-weight: normal;">
+            <td>
+                  Practical implementation of MIS in Bidirectional Path Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Jiayin Cao</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2016</td>
+        </tr>             
+          
+          
           
     </tbody>
 </table>
