@@ -451,7 +451,30 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">Blog</td>
             <td style="text-align: center;">2016</td>
-        </tr>             
+        </tr>     
+        <tr style="font-weight: normal;">
+            <td>
+                  MIPNet: Neural Normal-to-Anisotropic-Roughness MIP mapping<br />
+                  <div style="color: white; font-size: 7pt;">Alban Gauthier, Robin Faury, Jeremy Levallois, Theo Thonat, Jean-Marc Thiery, Tamy Boubekeur</div>
+            </td>
+            <td style="text-align: center;">ACM TOG</td>
+            <td style="text-align: center;">2022</td>
+        </tr> 
+        
+        <tr>
+            <td style="color: white;">December 2022 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Vectorized Production Path Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Mark Lee, Brian Green, Feng Xie, Eric Tabellion</div>
+            </td>
+            <td style="text-align: center;">HPG</td>
+            <td style="text-align: center;">2017</td>
+        </tr> 
+          
           
           
           
