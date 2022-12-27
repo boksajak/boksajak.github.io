@@ -482,7 +482,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">SIGGRAPH</td>
             <td style="text-align: center;">2016</td>
         </tr>   
-          
+        <tr style="font-weight: normal;">
+            <td>
+                  Particle Transport and Image Synthesis<br />
+                  <div style="color: white; font-size: 7pt;">James Arvo, David Kirk</div>
+            </td>
+            <td style="text-align: center;">Computer Graphics</td>
+            <td style="text-align: center;">1990</td>
+        </tr>            
           
           
           
