@@ -474,6 +474,15 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">HPG</td>
             <td style="text-align: center;">2017</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Adjoint-Driven Russian Roulette and Splitting in Light Transport Simulation<br />
+                  <div style="color: white; font-size: 7pt;">Jiri Vorba, Jaroslav Krivanek</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2016</td>
+        </tr>   
+          
           
           
           
