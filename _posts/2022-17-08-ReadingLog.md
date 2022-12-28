@@ -490,7 +490,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Computer Graphics</td>
             <td style="text-align: center;">1990</td>
         </tr>            
-          
+        <tr style="font-weight: normal;">
+            <td>
+                  Distributed Ray Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Robert L. Cook, Thomas Porter, Loren Carpenter</div>
+            </td>
+            <td style="text-align: center;">Computer Graphics</td>
+            <td style="text-align: center;">1984</td>
+        </tr>             
           
           
           
