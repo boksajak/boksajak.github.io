@@ -497,9 +497,16 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">Computer Graphics</td>
             <td style="text-align: center;">1984</td>
-        </tr>             
-          
-          
+        </tr>  
+        <tr style="font-weight: normal;">
+            <td>
+                  A Lens and Aperture Camera Model for Synthetic Image Generation<br />
+                  <div style="color: white; font-size: 7pt;">Michael Potmesil, Indranil Chakravarty</div>
+            </td>
+            <td style="text-align: center;">Computer Graphics</td>
+            <td style="text-align: center;">1981</td>
+        </tr> 
+        
           
     </tbody>
 </table>
