@@ -506,8 +506,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Computer Graphics</td>
             <td style="text-align: center;">1981</td>
         </tr> 
-        
-          
+        <tr style="font-weight: normal;">
+            <td>
+                  Generalized Resampled Importance Sampling: Foundations of ReSTIR<br />
+                  <div style="color: white; font-size: 7pt;">Daqi Lin, Markus Kettunen, Benedikt Bitterli, Jacopo Pantaleoni, Cem Yuksel, Chris Wyman</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2022</td>
+        </tr> 
     </tbody>
 </table>
 
