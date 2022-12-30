@@ -514,6 +514,16 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">SIGGRAPH</td>
             <td style="text-align: center;">2022</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Scan Primitives for GPU Computing<br />
+                  <div style="color: white; font-size: 7pt;">Shubhabrata Sengupta, Mark Harris, Yao Zhang, John D. Owens</div>
+            </td>
+            <td style="text-align: center;">Graphics HW</td>
+            <td style="text-align: center;">2007</td>
+        </tr>  
+          
+          
     </tbody>
 </table>
 
