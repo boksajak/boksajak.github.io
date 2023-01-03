@@ -521,8 +521,21 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">Graphics HW</td>
             <td style="text-align: center;">2007</td>
+        </tr> 
+                  
+        <tr>
+            <td style="color: white;">January 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Photographic Tone Reproduction for Digital Images<br />
+                  <div style="color: white; font-size: 7pt;">Erik Reinhard, Michael Stark, Peter Shirley, Jim Ferwerda</div>
+            </td>
+            <td style="text-align: center;">CGIT</td>
+            <td style="text-align: center;">2002</td>
         </tr>  
-          
           
     </tbody>
 </table>
