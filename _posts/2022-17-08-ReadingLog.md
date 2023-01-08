@@ -544,7 +544,17 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">SIGGRAPH</td>
             <td style="text-align: center;">2019</td>
         </tr>  
+        <tr style="font-weight: normal;">
+            <td>
+                  Pyramidal Parametrics<br />
+                  <div style="color: white; font-size: 7pt;">Lance Williams</div>
+            </td>
+            <td style="text-align: center;">Computer Graphics</td>
+            <td style="text-align: center;">1983</td>
+        </tr>  
           
+           
+
           
     </tbody>
 </table>
