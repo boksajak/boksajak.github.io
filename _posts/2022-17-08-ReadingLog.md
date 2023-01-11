@@ -553,8 +553,19 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">1983</td>
         </tr>  
           
-           
-
+        <tr>
+            <td style="color: white;">January 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  GI Next: Global Illumination for Production Rendering on GPUs<br />
+                  <div style="color: white; font-size: 7pt;">E. Catalano, R. Yasui-Schoeffel, K. Dahm, N.Binder, A. Keller</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2016</td>
+        </tr>    
           
     </tbody>
 </table>
