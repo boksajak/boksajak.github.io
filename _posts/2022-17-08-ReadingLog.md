@@ -566,6 +566,33 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">SIGGRAPH</td>
             <td style="text-align: center;">2016</td>
         </tr>    
+                    
+        <tr>
+            <td style="color: white;">January 2023 (2/4) - March 2023 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>
+          
+        <tr>
+            <td style="color: white;">March 2023 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Deep learning<br />
+                  <div style="color: white; font-size: 7pt;">Yann LeCun, Yoshua Bengio, Geoffrey Hinton</div>
+            </td>
+            <td style="text-align: center;">Nature</td>
+            <td style="text-align: center;">2015</td>
+        </tr>  
           
     </tbody>
 </table>
