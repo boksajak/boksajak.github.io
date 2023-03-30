@@ -587,11 +587,27 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
         </tr>
         <tr style="font-weight: normal;">
             <td>
-                  Deep learning<br />
+                  Deep Learning<br />
                   <div style="color: white; font-size: 7pt;">Yann LeCun, Yoshua Bengio, Geoffrey Hinton</div>
             </td>
             <td style="text-align: center;">Nature</td>
             <td style="text-align: center;">2015</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Ignoring the Inconvenient When Tracing Rays<br />
+                  <div style="color: white; font-size: 7pt;">Matt Pharr</div>
+            </td>
+            <td style="text-align: center;">RTG1</td>
+            <td style="text-align: center;">2019</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Neural BRDF Representation and Importance Sampling<br />
+                  <div style="color: white; font-size: 7pt;">A. Sztrajman, G. Rainer, T. Ritschel, T. Weyrich</div>
+            </td>
+            <td style="text-align: center;">CGF</td>
+            <td style="text-align: center;">2021</td>
         </tr>  
           
     </tbody>
