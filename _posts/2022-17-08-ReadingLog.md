@@ -610,6 +610,20 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2021</td>
         </tr>  
           
+        <tr>
+            <td style="color: white;">April 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Essential Ray Generation Shaders<br />
+                  <div style="color: white; font-size: 7pt;">Morgan McGuire, Zander Majercik</div>
+            </td>
+            <td style="text-align: center;">RTG2</td>
+            <td style="text-align: center;">2021</td>
+        </tr> 
+          
     </tbody>
 </table>
 
