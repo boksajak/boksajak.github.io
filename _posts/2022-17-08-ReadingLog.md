@@ -624,6 +624,21 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2021</td>
         </tr> 
           
+        <tr>
+            <td style="color: white;">April 2023 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Precomputed Fast Rejection Ray-Triangle Intersection<br />
+                  <div style="color: white; font-size: 7pt;">Thomas Alois Pichler, Andrej Ferko, Michal Ferko, Peter Kan, Hannes Kaufmann</div>
+            </td>
+            <td style="text-align: center;">GVC</td>
+            <td style="text-align: center;">2022</td>
+        </tr> 
+          
+          
     </tbody>
 </table>
 
