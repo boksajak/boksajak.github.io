@@ -645,6 +645,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">JCGT</td>
             <td style="text-align: center;">2016</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Fast, Minimum Storage Ray/Triangle Intersection<br />
+                  <div style="color: white; font-size: 7pt;">Tomas Moeller, Ben Trumbore</div>
+            </td>
+            <td style="text-align: center;">JGT</td>
+            <td style="text-align: center;">1997</td>
+        </tr> 
           
           
     </tbody>
