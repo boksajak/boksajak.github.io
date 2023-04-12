@@ -637,6 +637,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">GVC</td>
             <td style="text-align: center;">2022</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Fast Ray-Triangle Intersections by Coordinate Transformation<br />
+                  <div style="color: white; font-size: 7pt;">Doug Baldwin, Michael Weber</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2016</td>
+        </tr> 
           
           
     </tbody>
