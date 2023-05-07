@@ -652,8 +652,34 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">JGT</td>
             <td style="text-align: center;">1997</td>
-        </tr> 
+        </tr>
           
+        <tr>
+            <td style="color: white;">Aprl 2023 (3/4) - April 2023 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>          
+          
+        <tr>
+            <td style="color: white;">May 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Performance Comparison of Bounding Volume Hierarchies for GPU Ray Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Daniel Meister, Jiri Bittner</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2022</td>
+        </tr> 
           
     </tbody>
 </table>
