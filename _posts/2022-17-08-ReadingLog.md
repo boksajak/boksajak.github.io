@@ -694,6 +694,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">EG</td>
             <td style="text-align: center;">2021</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Robust BVH Ray Traversal<br />
+                  <div style="color: white; font-size: 7pt;">Thiago Ize</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2013</td>
+        </tr> 
           
           
     </tbody>
