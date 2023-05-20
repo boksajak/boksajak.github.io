@@ -681,7 +681,7 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2022</td>
         </tr> 
          
-          <tr>
+        <tr>
             <td style="color: white;">May 2023 (2/4)</td>
             <td></td>
             <td></td>
@@ -718,6 +718,36 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">HPG</td>
             <td style="text-align: center;">2009</td>
+        </tr> 
+          
+        <tr>
+            <td style="color: white;">May 2023 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Fast BVH Construction on GPUs<br />
+                  <div style="color: white; font-size: 7pt;">C. Lauterbach, M. Garland, S. Sengupta, D. Luebke, D. Manocha</div>
+            </td>
+            <td style="text-align: center;">CGF</td>
+            <td style="text-align: center;">2009</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Cache-Efficient Layouts of Bounding Volume Hierarchies<br />
+                  <div style="color: white; font-size: 7pt;">Sung-Eui Yoon, Dinesh Manocha</div>
+            </td>
+            <td style="text-align: center;">EG</td>
+            <td style="text-align: center;">2006</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  A Meshless Hierarchical Representation for Light Transport<br />
+                  <div style="color: white; font-size: 7pt;">Jaakko Lehtinen, Matthias Zwicker, Emmanuel Turquin, Janne Kontkanen, Fredo Durand, Francois X. Sillion, Timo Aila</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2008</td>
         </tr> 
           
           
