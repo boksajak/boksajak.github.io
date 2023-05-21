@@ -749,6 +749,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">SIGGRAPH</td>
             <td style="text-align: center;">2008</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Real-Time SAH BVH Construction for Ray Tracing Dynamic Scenes<br />
+                  <div style="color: white; font-size: 7pt;">Dmitry Sopin, Denis Bogolepov, Danila Ulyanov</div>
+            </td>
+            <td style="text-align: center;">Grafikon</td>
+            <td style="text-align: center;">2011</td>
+        </tr> 
           
           
     </tbody>
