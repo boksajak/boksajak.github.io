@@ -757,7 +757,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Grafikon</td>
             <td style="text-align: center;">2011</td>
         </tr> 
-          
+        <tr style="font-weight: normal;">
+            <td>
+                  Bonsai: Rapid Bounding Volume Hierarchy Generation using Mini Trees<br />
+                  <div style="color: white; font-size: 7pt;">P. Ganestam, R. Barringer, M. Doggett, and T. Akenine-Möller</div>
+            </td>
+            <td style="text-align: center;">JCGT</td>
+            <td style="text-align: center;">2015</td>
+        </tr> 
           
     </tbody>
 </table>
