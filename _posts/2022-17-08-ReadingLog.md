@@ -19,17 +19,6 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
 
 <div style="text-align: justify; font-style: italic;">
 
-<!--
-| Title                  |    Journal         |   Publication Year    |   
-| ---------------------- | ------------------ |  ------------------   |
-| **August 2022 (3/4)**    |                    |                       |
-| Ray Traced Level of Detail Cross-Fades Made Easy       |  RTG2      | 2021     |
-| The Shader Binding Table Demystified                   |  RTG2      | 2021     |
-| Temporally Reliable Motion Vectors for Better Use of Temporal Information      |  RTG2      | 2021     |
-| Lightweight Multidimensional Adaptive Sampling for GPU Ray Tracing     |  JCGT      | 2022     |
-| Combining Analytic Direct Illumination and Stochastic Shadows     |  Siggraph      | 2018     |
--->
-
 <table>
     <thead>
         <tr>
@@ -764,6 +753,14 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             </td>
             <td style="text-align: center;">JCGT</td>
             <td style="text-align: center;">2015</td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Automatic Creation of Object Hierarchies for Ray Tracing<br />
+                  <div style="color: white; font-size: 7pt;">Jeffrey Goldsmith, John Salmon</div>
+            </td>
+            <td style="text-align: center;">IEEE CGaA</td>
+            <td style="text-align: center;">1987</td>
         </tr> 
           
     </tbody>
