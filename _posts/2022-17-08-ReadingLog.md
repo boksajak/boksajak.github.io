@@ -703,7 +703,7 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
         <tr style="font-weight: normal;">
             <td>
                   Understanding the Efficiency of Ray Traversal on GPUs<br />
-                  <div style="color: white; font-size: 7pt;">Timo Aila, Samuli Laine/div>
+                  <div style="color: white; font-size: 7pt;">Timo Aila, Samuli Laine</div>
             </td>
             <td style="text-align: center;">HPG</td>
             <td style="text-align: center;">2009</td>
