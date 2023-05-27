@@ -768,6 +768,22 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">IEEE CGaA</td>
             <td style="text-align: center;">1987</td>
         </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Space-Tracing, a Constant Time Ray-Tracer<br />
+                  <div style="color: white; font-size: 7pt;">Michael R. Kaplan</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">1985</td>
+        </tr>          
+        <tr style="font-weight: normal;">
+            <td>
+                  Spatial Splits in Bounding Volume Hierarchies<br />
+                  <div style="color: white; font-size: 7pt;">Martin Stich, Heiko Friedrich, Andreas Dietrich</div>
+            </td>
+            <td style="text-align: center;">HPG</td>
+            <td style="text-align: center;">2009</td>
+        </tr> 
           
     </tbody>
 </table>
