@@ -784,6 +784,86 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">HPG</td>
             <td style="text-align: center;">2009</td>
         </tr> 
+        
+        <tr>
+            <td style="color: white;">June 2023 (1/4) - June 2023 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr>  
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr>    
+
+        <tr>
+            <td style="color: white;">June 2023 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Basics of Physically-based Rendering<br />
+                  <div style="color: white; font-size: 7pt;">Peter Shirley, R. Keith Morley, Peter-Pike Sloan, Chris Wyman</div>
+            </td>
+            <td style="text-align: center;">Siggraph Asia</td>
+            <td style="text-align: center;">2012</td>
+        </tr> 
+
+        <tr>
+            <td style="color: white;">June 2023 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Real-Time Polygonal-Light Shading with Linearly Transformed Cosines<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitz, Jonathan Dupuy, Stephen Hill and David Neubelt</div>
+            </td>
+            <td style="text-align: center;">Siggraph</td>
+            <td style="text-align: center;">2016</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Geometric Derivation of the Irradiance of Polygonal Lights<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitzt</div>
+            </td>
+            <td style="text-align: center;">Tech Report</td>
+            <td style="text-align: center;">2017</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Generalization of Adobe’s Fresnel Model<br />
+                  <div style="color: white; font-size: 7pt;">Naty Hoffman</div>
+            </td>
+            <td style="text-align: center;">Tech Report</td>
+            <td style="text-align: center;">2023</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  World-Space Spatiotemporal Reservoir Reuse For Ray-Traced Global Illumination<br />
+                  <div style="color: white; font-size: 7pt;">Guillaume Boissé</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">2021</td>
+        </tr>
+
+        <tr>
+            <td style="color: white;">July 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Combining Analytic Direct Illumination and Stochastic Shadows<br />
+                  <div style="color: white; font-size: 7pt;">Eric Heitz, Stephen Hill, Morgan McGuire</div>
+            </td>
+            <td style="text-align: center;">Siggraph</td>
+            <td style="text-align: center;">2018</td>
+        </tr>
+
           
     </tbody>
 </table>
