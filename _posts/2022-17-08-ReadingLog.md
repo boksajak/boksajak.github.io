@@ -864,6 +864,24 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2018</td>
         </tr>
 
+        <tr>
+            <td style="color: white;">July 2023 (2/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Sampling Visible GGX Normals with Spherical Caps<br />
+                  <div style="color: white; font-size: 7pt;">Jonathan Dupuy, Anis Benyoub</div>
+            </td>
+            <td style="text-align: center;">HPG</td>
+            <td style="text-align: center;">2023</td>
+        </tr>
+
+
+
+
+
           
     </tbody>
 </table>
