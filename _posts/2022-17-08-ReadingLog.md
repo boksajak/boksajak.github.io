@@ -878,8 +878,32 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">2023</td>
         </tr>
 
+        <tr>
+            <td style="color: white;">July 2023 (3/4)</td>
+            <td></td>
+            <td></td>
+        </tr>  
+        <tr style="font-weight: normal;">
+            <td>
+                  -
+            </td>
+            <td style="text-align: center;"></td>
+            <td style="text-align: center;"></td>
+        </tr> 
 
-
+        <tr>
+            <td style="color: white;">July 2023 (4/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Sampling the Solid Angle of Area Light Sources<br />
+                  <div style="color: white; font-size: 7pt;">Joe Schutte</div>
+            </td>
+            <td style="text-align: center;">Blog</td>
+            <td style="text-align: center;">2018</td>
+        </tr>
 
 
           
