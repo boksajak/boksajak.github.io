@@ -904,6 +904,22 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Blog</td>
             <td style="text-align: center;">2018</td>
         </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  GI-1.0: A Fast Scalable Two-Level Radiance Caching Scheme for Real-Time Global Illumination<br />
+                  <div style="color: white; font-size: 7pt;">Guillaume Boisse, Sylvain Meunier, Heloise de Dinechin, Matthew Oliver, Pieterjan Bartels, Alexander Veselov, Kenta Eto, Takahiro Harada</div>
+            </td>
+            <td style="text-align: center;">GPUOpen</td>
+            <td style="text-align: center;">2022</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  BRDF Importance Sampling for Polygonal Lights<br />
+                  <div style="color: white; font-size: 7pt;">Christoph Peters</div>
+            </td>
+            <td style="text-align: center;">Siggraph</td>
+            <td style="text-align: center;">2021</td>
+        </tr>
 
 
           
