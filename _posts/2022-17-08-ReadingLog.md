@@ -920,8 +920,28 @@ It's middle of August 2022 and I feel like I haven't been keeping up with graphi
             <td style="text-align: center;">Siggraph</td>
             <td style="text-align: center;">2021</td>
         </tr>
-
-
+        
+        <tr>
+            <td style="color: white;">August 2023 (1/4)</td>
+            <td></td>
+            <td></td>
+        </tr> 
+        <tr style="font-weight: normal;">
+            <td>
+                  Stratified Sampling of Spherical Triangles<br />
+                  <div style="color: white; font-size: 7pt;">James Arvo</div>
+            </td>
+            <td style="text-align: center;">SIGGRAPH</td>
+            <td style="text-align: center;">1995</td>
+        </tr>
+        <tr style="font-weight: normal;">
+            <td>
+                  Manifold Next Event Estimation<br />
+                  <div style="color: white; font-size: 7pt;">Johannes Hanika, Marc Droske, Luca Fascione</div>
+            </td>
+            <td style="text-align: center;">EGSR</td>
+            <td style="text-align: center;">2014</td>
+        </tr>
           
     </tbody>
 </table>
