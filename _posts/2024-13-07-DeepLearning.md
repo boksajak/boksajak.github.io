@@ -33,11 +33,7 @@ PDF version of the article is available for <a href="{{site.baseurl}}/files/Cras
 ## Abstract
 
 <div style="text-align: justify; font-style: italic;">
-This article helps to understand and implement BRDFs commonly used in game engines, for use in both rasterization and 
-emerging realtime raytracing. I hope it will help to overcome the steep learning curve of this complex topic, and to 
-understand how to render different materials. Various optimizations and approximations are discussed, and code is 
-shown for all relevant parts. Accompanying source code is a single file which can be compiled for both C++ and HLSL, 
-and can be easily integrated into rendering applications.  
+As I recently went through a journey of learning how to make use of deep learning (in the context of computer graphics), I thought it would be good to write down some notes to help others get up to speed quickly. The goal of this article is to make the reader familiar with terms and concepts used in deep learning and to implement a basic deep learning algorithm. This should make it easier to study and understand other deep learning resources.  
 </div>
          
 ## Bibliography
