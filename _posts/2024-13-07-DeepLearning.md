@@ -1,6 +1,6 @@
 ---
 title:  "Crash Course in Deep Learning"
-date:   2021-02-28 15:06:11
+date:   2024-07-13 15:06:11
 categories: brdf rendering raytracing
 excerpt: "An article introducing the basics of deep learning"
 tags: [machine learning, deep learning]
