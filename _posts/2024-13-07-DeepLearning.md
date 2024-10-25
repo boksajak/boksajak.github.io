@@ -42,7 +42,7 @@ As I recently went through a journey of learning how to make use of deep learnin
 	title=			{Crash Course in Deep Learning},
 	author=			{Jakub Boksansky},
 	year=			{2024},
-	month=			{July
+	month=			{July},
 	howpublished=	{\url{https://boksajak.github.io/blog/DeepLearning}}
 }
 ```
