@@ -26,7 +26,7 @@ RTG2 - <a href="{{site.baseurl}}/files/RTG2_ReferencePathTracer.pdf">Jakub Boksa
 </div>  
 
 <div style="display: inline; top: 20px; left: 10px; position: relative;">
-RTG2 - <a href="{{site.baseurl}}/files/RTG2_RefractionRayCones.pdf">Jakub Boksansky, Cyril Crassin, Tomas Akenine-Möller - <b>Refraction Ray Cones For Texture Level Of Detail</b></a>.
+RTG2 - <a href="{{site.baseurl}}/files/RTG2_RefractionRayCones.pdf">Jakub Boksansky, Cyril Crassin, Tomas Akenine-Moller - <b>Refraction Ray Cones For Texture Level Of Detail</b></a>.
 </div>  
 
 <div style="display: inline; top: 20px; left: 10px; position: relative;">
