@@ -1,9 +1,9 @@
 ---
 title:  "My Ray Tracing Gems Chapters"
-date:   2024-10-25 11:12:45
+date:   2024-10-25 7:12:45
 categories: rendering raytracing
 excerpt: "Download options for my ray tracing gems chapters"
-tags: [deep learning]
+tags: [ray tracing gems]
 layout: default
 comments: false
 permalink: /blog/:title
