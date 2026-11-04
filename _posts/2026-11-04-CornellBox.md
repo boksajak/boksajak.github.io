@@ -6,7 +6,7 @@ excerpt: ""
 tags: [cornell box path tracing]
 layout: default
 comments: false
-permalink: /blog/:title
+permalink: /blog/CornellBox
 ---
 
 # {{page.title}}
