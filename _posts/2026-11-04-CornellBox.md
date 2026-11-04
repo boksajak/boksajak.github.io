@@ -27,7 +27,7 @@ The scene brings several rendering challenges:
 
 - **Slatted pendant light.** An emissive source inside the shade casts a pattern of narrow shadows across the ceiling and walls. The pendant contains 48 twisted fins surrounding a small cube-shaped emitter, 12 mm across.
 - **Glazed ceramic.** A tall block combines decorative relief, a recessed opening, and varying surface roughness, providing a contrast between diffuse shading and glossy highlights. The Egyptian-inspired decoration on the ceramic block is actual geometry.
-- **Iridescent metal.** Should be anodized titanium, let me know how close it is if you see one. The curved metal sheet combines anisotropic reflection with thin-film iridescence. Its changing surface orientation creates the angular variation in reflections and color. The metal’s scratches are encoded in its roughness texture, while anisotropy and thin-film iridescence are separate material properties.
+- **Iridescent metal.** Should be anodized titanium, let me know how close it is if you see one. The curved metal sheet combines anisotropic reflection with thin-film iridescence. Its changing surface orientation creates the angular variation in reflections and color. The metal's scratches are encoded in its roughness texture, while anisotropy and thin-film iridescence are separate material properties.
 - **Solid glass.** A rounded glass block exercises refraction, Fresnel reflection, total internal reflection, absorption, and caustics. Its beveled edges provide additional paths through the material.
 
 The red and green walls provide a familiar setting for inspecting color bleeding and indirect illumination - and are now normal mapped with carpet-like structure.
