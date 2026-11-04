@@ -2,11 +2,11 @@
 title: "Cornell Box 2026"
 date: 2026-11-04 19:52:45
 categories: rendering path tracing
-excerpt: ""
+excerpt: "My take on Cornell Box scene"
 tags: [cornell box path tracing]
 layout: default
 comments: false
-permalink: /blog/CornellBox
+permalink: /blog/CornellBox2026
 ---
 
 # {{page.title}}
@@ -83,6 +83,6 @@ The scene, its included textures, and the environment map are released under [CC
   author = {Bok{\v{s}}ansk{\'{y}}, Jakub},
   title  = {{Cornell Box 2026}},
   year   = {2026},
-  url    = {https://boksajak.github.io/blog/CornellBox}
+  url    = {https://boksajak.github.io/blog/CornellBox2026}
 }
 ```
