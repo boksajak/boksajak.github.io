@@ -34,7 +34,7 @@ The red and green walls provide a familiar setting for inspecting color bleeding
 
 ## Renders
 
-Path traced with BSDF sampling only (no NEE) and up to 64 bounces using Russian Roulette.
+Path traced with BSDF sampling only (no NEE) and up to 64 bounces using Russian Roulette. 2,000,000 samples per pixel.
 
 <div style="overflow: hidden; margin: 20px 0;">
   <figure>
