@@ -81,7 +81,7 @@ The scene, its included textures, and the environment map are released under [CC
 ```bibtex
 @misc{boksansky2026cornellbox,
   author = {Bok{\v{s}}ansk{\'{y}}, Jakub},
-  title  = {{Cornell Box 2026}},
+  title  = {Cornell Box 2026},
   year   = {2026},
   url    = {https://boksajak.github.io/blog/CornellBox2026}
 }
