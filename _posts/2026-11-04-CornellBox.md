@@ -1,7 +1,7 @@
 ---
 title: "Cornell Box 2026"
 date: 2026-11-04 19:52:45
-categories: rendering raytracing
+categories: rendering path tracing
 excerpt: ""
 tags: [cornell box path tracing]
 layout: default
@@ -17,15 +17,17 @@ permalink: /blog/:title
 
 Here is a "Cornell Box 2026" GLTF scene - your good old Cornell Box with some light transport challenges added: normal maps, scratched and curved anodized anisotropic metal plate with iridescence, small light source surrounded by thin geometry and a thick glass block with many internal reflections throwing caustics. Ceramic block has a little recess for indirect lighting. There is also an environment map inspired by Figure 1 in Bruce Walter's "Microfacet Models for Refraction through Rough Surfaces".
 
+The original credits belong to Cornell University, and please check out their "Modeling the Interaction of Light Between Diffuse Surfaces" from SIGGRAPH '84.
+
 [![Cornell Box 2026: front view of the scene]({{site.baseurl}}/files/cornell_box_2026/render_front_crop.png)]({{site.baseurl}}/files/cornell_box_2026/render_front_crop.png)
 
 ## The scene
 
 The scene brings several rendering challenges:
 
-- **Slatted pendant light.** An emissive source inside the shade casts a pattern of narrow shadows across the ceiling and walls.
-- **Glazed ceramic.** A tall block combines decorative relief, a recessed opening, and varying surface roughness, providing a contrast between diffuse shading and glossy highlights.
-- **Iridescent metal.** The curved metal sheet combines anisotropic reflection with thin-film iridescence. Its changing surface orientation creates the angular variation in reflections and color.
+- **Slatted pendant light.** An emissive source inside the shade casts a pattern of narrow shadows across the ceiling and walls. The pendant contains 48 twisted fins surrounding a small cube-shaped emitter, 12 mm across.
+- **Glazed ceramic.** A tall block combines decorative relief, a recessed opening, and varying surface roughness, providing a contrast between diffuse shading and glossy highlights. The Egyptian-inspired decoration on the ceramic block is actual geometry.
+- **Iridescent metal.** Should be anodized titanium, let me know how close it is if you see one. The curved metal sheet combines anisotropic reflection with thin-film iridescence. Its changing surface orientation creates the angular variation in reflections and color. The metal’s scratches are encoded in its roughness texture, while anisotropy and thin-film iridescence are separate material properties.
 - **Solid glass.** A rounded glass block exercises refraction, Fresnel reflection, total internal reflection, absorption, and caustics. Its beveled edges provide additional paths through the material.
 
 The red and green walls provide a familiar setting for inspecting color bleeding and indirect illumination - and are now normal mapped with carpet-like structure.
@@ -66,12 +68,15 @@ Path traced with BSDF sampling only (no NEE) and up to 64 bounces using Russian 
 
 ## Download
 
-Scene files and download details will be added here.
+- <a href="{{site.baseurl}}/files/cornell_box_2026/Cornell_Box_2026_Slatted_Pendant.gltf" download>Download scene (glTF)</a>
+- <a href="{{site.baseurl}}/files/cornell_box_2026/Cornell_Striped_Studio_4K.exr" download>Download environment map (4K EXR)</a>
+
+## License
+
+The scene, its included textures, and the environment map are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, and redistribute them, including for commercial purposes. Attribution is not required, but a citation is appreciated and remember CornellU for original Box.
 
 
 ## Citation
-
-If you use this scene in your work, please cite:
 
 ```bibtex
 @misc{boksansky2026cornellbox,
