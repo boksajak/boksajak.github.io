@@ -45,7 +45,7 @@ The light is a distant white disk. The environment map contains a broad white so
 ## License and Citation
 
 
-Please cite the paper that inspired the scene. The reconstruction, its included textures, environment maps, and procedural source are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, and redistribute them, including for commercial purposes. Attribution is appreciated but is not required under CC0.
+Please cite the paper that inspired the scene. The reconstruction, its included textures and environment maps are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). You may use, modify, and redistribute them, including for commercial purposes. Attribution is appreciated but is not required under CC0.
 
 ```bibtex
 @article{whitted1980illumination,
